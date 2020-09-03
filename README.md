@@ -8,4 +8,6 @@ Example:
 
 ![Example 1](/Demo/blob/master/Capture.JPG?raw=true)
 ![Example 2](/Demo/blob/master/Capture1.JPG?raw=true)
-
+<p>
+  <img src="/Demo/blob/master/Capture.JPG" widht="240" height="240" />
+</p>
