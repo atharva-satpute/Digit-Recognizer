@@ -6,8 +6,6 @@ After the model has been trained, 'mnist.h5' is generated to create a GUI to pre
 
 Example:
 
-![Example 1](/Demo/blob/master/Capture.JPG?raw=true)
-![Example 2](/Demo/blob/master/Capture1.JPG?raw=true)
-<p>
-  <img src="/Demo/blob/master/Capture.JPG" widht="240" height="240" />
-</p>
+![Example 1](https://github.com/atharva-satpute/Demo/blob/master/Capture.JPG?raw=true)
+
+![Example 2](https://github.com/atharva-satpute/Demo/blob/master/Capture1.JPG?raw=true)
