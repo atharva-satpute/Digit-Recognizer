@@ -6,6 +6,6 @@ After the model has been trained, 'mnist.h5' is generated to create a GUI to pre
 
 Example:
 
-![Example 1](/Images/blob/master/Capture.JPG?raw=true)
-![Example 2](/Images/blob/master/Capture1.JPG?raw=true)
+![Example 1](/Demo/blob/master/Capture.JPG?raw=true)
+![Example 2](/Demo/blob/master/Capture1.JPG?raw=true)
 
